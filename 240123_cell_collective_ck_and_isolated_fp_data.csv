@@ -1,0 +1,50 @@
+name,mean control kernel size,number of attractors,size,number of isolated fixed points
+Cortical Area Development,1.0,2,5,0.0
+Cell Cycle Transcription By Coupled CDK And Network Oscillators,1.0,2,9,0.0
+Mammalian Cell Cycle 2006,0.0,1,10,0.0
+Toll Pathway Of Drosophila Signaling Pathway,2.0,4,11,0.0
+Metabolic Interactions In The Gut Microbiome,6.2,40,12,0.0
+Regulation Of The L-arabinose Operon Of Escherichia Coli,4.117647058823529,21,13,0.0
+Lac Operon,3.2222222222222223,9,13,0.0
+Arabidopsis Thaliana Cell Cycle,0.0,1,14,0.0
+Predicting Variabilities In Cardiac Gene,2.833333333333333,6,15,0.0
+Cardiac Development,2.833333333333333,6,15,0.0
+Fanconi Anemia And Checkpoint Recovery,0.0,1,15,0.0
+BT474 Breast Cell Line Short-term ErbB Network,9.541501976284586,253,16,24.0
+SKBR3 Breast Cell Line Short-term ErbB Network,10.703703703703704,702,16,104.0
+Neurotransmitter Signaling Pathway,2.0,4,16,0.0
+HCC1954 Breast Cell Line Short-term ErbB Network,9.021897810218976,274,16,10.0
+Body Segmentation In Drosophila 2013,3.4,10,17,0.0
+Vegf Pathway Of Drosophila Signaling Pathway,8.0,256,18,0.0
+CD4+ T Cell Differentiation And Plasticity,8.60204081632653,324,18,0.0
+Budding Yeast Cell Cycle 2009,0.0,1,18,0.0
+T-LGL Survival Network 2011 Reduced Network,2.333333333333333,3,18,0.0
+Human Gonadal Sex Determination,2.333333333333333,3,19,0.0
+Oxidative Stress Pathway,1.0,2,19,0.0
+Mammalian Cell Cycle,1.6666666666666667,3,20,0.0
+Budding Yeast Cell Cycle,4.809523809523809,33,20,0.0
+B Cell Differentiation,5.913793103448276,61,22,0.0
+Iron Acquisition And Oxidative Stress Response In Aspergillus Fumigatus.,2.0,4,22,0.0
+FGF Pathway Of Drosophila Signalling Pathways,9.0,512,23,0.0
+T Cell Differentiation,5.03030303030303,33,23,0.0
+TOL Regulatory Network,10.0,1024,24,0.0
+Processing Of Spz Network From The Drosophila Signaling Pathway,6.0,64,24,0.0
+HH Pathway Of Drosophila Signaling Pathways,13.0,8192,24,0.0
+BT474 Breast Cell Line Long-term ErbB Network,14.01854066985646,3344,25,256.0
+SKBR3 Breast Cell Line Long-term ErbB Network,17.31585557299843,3185,25,960.0
+HCC1954 Breast Cell Line Long-term ErbB Network,17.802793059669913,9452,25,1504.0
+Trichostrongylus Retortaeformis,3.1666666666666665,12,26,0.0
+Pro-inflammatory Tumor Microenvironment In Acute Lymphoblastic Leukemia,2.5,6,26,0.0
+Wg Pathway Of Drosophila Signalling Pathways,14.0,16384,26,0.0
+Death Receptor Signaling,4.7407407407407405,97,28,0.0
+FA BRCA Pathway,0.0,1,28,
+Septation Initiation Network,9.4,2240,31,0.0
+Tumour Cell Invasion And Migration,3.333333333333333,15,32,0.0
+Lymphoid And Myeloid Cell Specification And Transdifferentiation,4.7,20,33,
+Bordetella Bronchiseptica,2.6666666666666665,4,33,
+Cholesterol Regulatory Pathway,2.25,21,34,
+T-Cell Signaling 2006,3.142857142857143,10,40,0.0
+Treatment Of Castration-Resistant Prostate Cancer,14.0,16384,42,8.0
+Guard Cell Abscisic Acid Signaling,5.421052631578948,95,44,0.0
+Pc12 Cell Differentiation,1.0,2,62,
+Yeast Apoptosis,13.333333333333334,11520,73,
